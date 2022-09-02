@@ -23,3 +23,6 @@ After that, be careful not to extract it from the ransomwareTest folder. Especia
 
 After making sure that it keeps the ransomware in a safe folder, you can run ransomware.py. You will see that the txt files in it will be encrypted.
 To decrypt run ransomdec.py and you will see that txt files can be read again.
+
+
+After encrypting the files, the program will create a generatedkey.key file for you and use it to decrypt the encrypted files again. You can see the key from this file
