@@ -20,3 +20,6 @@ In addition to the above, you are responsible for any damage that may occur, not
 First of all, install the ransomware folder in a junk folder on your virtual device. NOT MAIN DEVICE !
 
 After that, be careful not to extract it from the ransomwareTest folder. Especially ransomware.py file !
+
+After making sure that it keeps the ransomware in a safe folder, you can run ransomware.py. You will see that the txt files in it will be encrypted.
+To decrypt run ransomdec.py and you will see that txt files can be read again.
