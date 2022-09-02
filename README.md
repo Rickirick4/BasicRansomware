@@ -15,3 +15,7 @@ In addition, all damages to your own device or devices belong to you, not me.
 In addition to the above, you are responsible for any damage that may occur, not me.
 
 
+## How to use ?
+
+First of all, install the ransomware folder in a junk folder on your virtual device. NOT MAIN DEVICE !
+After that, be careful not to extract it from the ransomwareTest folder. Especially ransomware.py file !
