@@ -1,7 +1,7 @@
 # Basic Ransomware
 Basic Ransomware Example
 
-# Disclaimer
+# Disclaimer!
 
 ## DO NOT FORGOT
 Remember, all codes used here are for educational purposes only. If the codes used here are used for any malicious purpose, it is your responsibility, not me.
