@@ -25,4 +25,5 @@ After making sure that it keeps the ransomware in a safe folder, you can run ran
 To decrypt run ransomdec.py and you will see that txt files can be read again.
 
 
-After encrypting the files, the program will create a generatedkey.key file for you and use it to decrypt the encrypted files again. You can see the key from this file
+After encrypting the files, the program will create a generatedkey.key file for you and use it to decrypt the encrypted files again. You can see the key from this file.
+Delete the generated.key file after decrypting the files. Otherwise, the next time you use the program, you may confuse or even lose the keys.
